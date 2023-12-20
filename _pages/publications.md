@@ -12,4 +12,3 @@ nav_order: 1
 
 (* equal contribution)
 </div>
-(* equal contribution)

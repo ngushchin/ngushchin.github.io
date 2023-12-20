@@ -10,4 +10,6 @@ nav_order: 1
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
+(* equal contribution)
 </div>
+(* equal contribution)

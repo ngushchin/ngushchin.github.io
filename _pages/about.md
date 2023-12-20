@@ -16,8 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 Researcher at [Skoltech](https://new.skoltech.ru/en/).
 
-Research: My current research is about developing novel generative models based on 
+**Research interests.** My main research interests are the development and improvement of generative models. In particular, I am interested in accelerating diffusion models and extending them to unpaired image domain translation and use for single cell data.
 
-Write your biography here. Tell the world about yourself. 
+**Current Research.** My current research is at the intersection of diffusion models and optimal transport theory. I have developed several algorithms and a benchmark for the Schrödinger bridge problem, solving which allows to construct diffusion processes with fast inference time.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
